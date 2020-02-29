@@ -1,0 +1,18 @@
+h2{
+    color: red;
+    text-align: center;
+}
+p{
+    color: grey;
+}
+div{
+    background-color: teal;
+    width: 500px;
+    height: 400px;
+    margin: 30px;
+    padding: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 28px;
+    font-weight: bold;
+    border: salmon;
+}
